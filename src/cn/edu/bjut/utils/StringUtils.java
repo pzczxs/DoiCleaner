@@ -5,6 +5,17 @@ import java.util.List;
 import java.util.Set;
 import java.util.Stack;
 
+/*
+ * A cleaning method of DOI names of cited references in Web of Science.  
+ * 
+ * References: 
+ * [1] Shuo Xu, Liyuan Hao, Xin An, Dongsheng Zhai, and Hongshen Pang, 2019. Types of 
+ * DOI Errors of Cited References in Web of Science with a Cleaning Method. Scientometrics, 
+ * Vol. 120, No. 3, pp. 1427-1437. DOI: https://doi.org/10.1007/s11192-019-03162-4 
+ * 
+ * Author: XU, Shuo (pzczxs@gmail.com)
+ * */
+
 public class StringUtils {
 	public static String join(String delimer, Set<?> set) {
 		StringBuilder sb = new StringBuilder(); 
