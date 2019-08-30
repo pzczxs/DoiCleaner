@@ -10,11 +10,11 @@ By definition, each DOI name should be unique and must identify one and only one
 
 Various DOI errors of cited references in the WoS database are deeply analyzed and a cleaning approach is put forward to alleviate the extent of DOI errors of cited references by [Xu et al. (2019)](https://doi.org/10.1007/s11192-019-03162-4). This tool implements the cleaning approach. Please refer to [Xu et al. (2019)](https://doi.org/10.1007/s11192-019-03162-4) for more details. 
 ## 2. License
-DoiCleaner is a free JAVA tool; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+DoiCleaner is a free JAVA tool; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 
-StudentGrouper is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+DoiCleaner is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with MLSSVR; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA.
+You should have received a copy of the GNU General Public License along with DoiCleaner; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA.
 
 ## 2. How to Use StudentGrouper
 
