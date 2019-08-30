@@ -30,7 +30,15 @@ You should have received a copy of the GNU General Public License along with MLS
 ```
 
 ### 2.3 Data Format
+Input data format: CSV format from Web of Science database
 
+Output data format: 
+WoS ID: 
+\TAB cited reference information (not including DOI name) \TAB original DOI name \TAB cleaned DOI name [\TAB flag] 
+......
+WoS ID:
+\TAB cited reference information (not including DOI name) \TAB original DOI name \TAB cleaned DOI name [\TAB flag] 
+......
 
 ### 2.4. Additional Information
 
