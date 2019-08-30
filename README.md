@@ -42,6 +42,7 @@ WoS ID:
 ......
 ```
 
+If the cleaned DOI name is illegal, or there are still multiple DOI names after cleaning, ```flag``` is set to ```TRUE'''. Otherwise, ```\TAB flag``` disappers. 
 ### 2.4. Additional Information
 
 This toolbox is written by [XU, Shuo](http://54xushuo.net/wiki/) from [Beijing University of Technology](http://www.bjut.edu.cn). 
