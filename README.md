@@ -42,7 +42,7 @@ WoS ID:
 ......
 ```
 
-If the cleaned DOI name is illegal, or there are still multiple DOI names after cleaning, ```flag``` is set to ```true```. Otherwise, ```\TAB flag``` disappers. Please check the 2nd example in the following for more details. 
+If the cleaned DOI name is illegal, or there are still multiple DOI names after cleaning, ```flag``` is set to ```true```. Otherwise, ```\TAB flag``` disappers. Please check the 2nd example in the following for more details. If a cited reference is not attached any DOI name, it is just copied directly. 
 
 ```
 WOS:000418594700004:
@@ -52,7 +52,7 @@ WOS:000418594700004:
 ```
 ### 2.4. Additional Information
 
-This toolbox is written by [XU, Shuo](http://54xushuo.net/wiki/) from [Beijing University of Technology](http://www.bjut.edu.cn). 
+This tool is written by [XU, Shuo](http://54xushuo.net/wiki/) from [Beijing University of Technology](http://www.bjut.edu.cn). 
 
 For any question, please contact XU, Shuo at <xushuo@bjut.edu.cn> OR <pzczxs@gmail.com>.
 
