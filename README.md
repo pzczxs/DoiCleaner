@@ -16,7 +16,7 @@ DoiCleaner is distributed in the hope that it will be useful, but WITHOUT ANY WA
 
 You should have received a copy of the GNU General Public License along with DoiCleaner; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA.
 
-## 2. How to Use StudentGrouper
+## 2. How to Use DoiCleaner
 
 ### 2.1. Command Line & Input Parameters
 ```
