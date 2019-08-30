@@ -42,7 +42,7 @@ WoS ID:
 ......
 ```
 
-If the cleaned DOI name is illegal, or there are still multiple DOI names after cleaning, ```flag``` is set to ```true```. Otherwise, ```\TAB flag``` disappers. Please check the 2nd example in the following for more details. If a cited reference is not attached any DOI name, it is just copied directly (cf. the 3rd one in the following). 
+If the cleaned DOI name is illegal, or there are still multiple DOI names after cleaning, ```flag``` is set to ```true```. Otherwise, ```\TAB flag``` disappears. Please check the 2nd example in the following for more details. If a cited reference is not attached any DOI name, it is just copied directly (cf. the 3rd one in the following). 
 
 ```
 WOS:000418594700004:
