@@ -8,7 +8,7 @@ Although comprehensive bibliographic databases, such as Scopus and Web of Scienc
 
 By definition, each DOI name should be unique and must identify one and only one entity. However, DOI errors present challenges for the data collection from different sources in order to avoid unwanted duplicate entries. In addition, it remains unknown that whether there are other types of DOI errors, how often each type of errors occur, and whether it is possible to automatically correct these errors.
 
-Various DOI errors of cited references in the WoS database are deeply analyzed and a cleaning approach is put forward to alleviate the extent of DOI errors of cited references by [Xu et al. (2019)](http://doi.org/10.1007/s11192-019-03162-4). This tool implements the cleaning approach. Please refer to [Xu et al. (2019)](http://doi.org/10.1007/s11192-019-03162-4) for more details. 
+Various DOI errors of cited references in the WoS database are deeply analyzed and a cleaning approach is put forward to alleviate the extent of DOI errors of cited references by [Xu et al. (2019)](https://doi.org/10.1007/s11192-019-03162-4). This tool implements the cleaning approach. Please refer to [Xu et al. (2019)](https://doi.org/10.1007/s11192-019-03162-4) for more details. 
 ## 2. License
 DoiCleaner is a free JAVA tool; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
@@ -33,12 +33,14 @@ You should have received a copy of the GNU General Public License along with MLS
 Input data format: CSV format from Web of Science database
 
 Output data format: 
+```
 WoS ID: 
 \TAB cited reference information (not including DOI name) \TAB original DOI name \TAB cleaned DOI name [\TAB flag] 
 ......
 WoS ID:
 \TAB cited reference information (not including DOI name) \TAB original DOI name \TAB cleaned DOI name [\TAB flag] 
 ......
+```
 
 ### 2.4. Additional Information
 
