@@ -42,7 +42,14 @@ WoS ID:
 ......
 ```
 
-If the cleaned DOI name is illegal, or there are still multiple DOI names after cleaning, ```flag``` is set to ```TRUE'''. Otherwise, ```\TAB flag``` disappers. 
+If the cleaned DOI name is illegal, or there are still multiple DOI names after cleaning, ```flag``` is set to ```true```. Otherwise, ```\TAB flag``` disappers. Please check the 2nd example in the following for more details. 
+
+```
+WOS:000418594700004:
+	Achtman M, 2012, PLOS PATHOG, V8	10.1371/journal.ppat.1002776	10.1371/JOURNAL.PPAT.1002776
+    Clark CG, 2003, J CLIN MICROBIOL, V41, P27	[10.1128/JCM.41.1.27-33.2003, 10.1128/JCM>41.1.27-33.2003]	10.1128/JCM.41.1.27-33.2003, 10.1128/JCM>41.1.27-33.2003	true
+	Ferrari R, 2011, J INFECT DEV COUNTR, V5, P496
+```
 ### 2.4. Additional Information
 
 This toolbox is written by [XU, Shuo](http://54xushuo.net/wiki/) from [Beijing University of Technology](http://www.bjut.edu.cn). 
