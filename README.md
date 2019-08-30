@@ -29,11 +29,14 @@ You should have received a copy of the GNU General Public License along with MLS
 > java -jar DoiCleaner.jar -dirName data -outFileName dois.txt
 ```
 
-### 2.3. Additional Information
+### 2.3 Data Format
+
+
+### 2.4. Additional Information
 
 This toolbox is written by [XU, Shuo](http://54xushuo.net/wiki/) from [Beijing University of Technology](http://www.bjut.edu.cn). 
 
 For any question, please contact XU, Shuo at <xushuo@bjut.edu.cn> OR <pzczxs@gmail.com>.
 
 ## 3. References
-[1] Shuo Xu, Liyuan Hao, Xin An, Dongsheng Zhai, and Hongshen Pang, 2019. [Types of DOI Errors of Cited References in Web of Science with a Cleaning Method](http://doi.org/10.1007/s11192-019-03162-4). *Scientometrics*, Vol. 120, No. 3, pp. 1427-1437. 
+[1] Shuo Xu, Liyuan Hao, Xin An, Dongsheng Zhai, and Hongshen Pang, 2019. [Types of DOI Errors of Cited References in Web of Science with a Cleaning Method](https://doi.org/10.1007/s11192-019-03162-4). *Scientometrics*, Vol. 120, No. 3, pp. 1427-1437. 
