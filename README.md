@@ -57,7 +57,7 @@ WOS:000418594700004:
 ```
 ### 2.4 Additional Information
 
-This tool is written by [XU, Shuo](http://54xushuo.net/wiki/) from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this toolbox useful, please cite MLS-SVR as follows:
+This tool is written by [XU, Shuo](http://54xushuo.net/wiki/) from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this tool useful, please cite DoiCleaner as follows:
 
 Shuo Xu, Liyuan Hao, Xin An, Dongsheng Zhai, and Hongshen Pang, 2019. [Types of DOI Errors of Cited References in Web of Science with a Cleaning Method](https://doi.org/10.1007/s11192-019-03162-4). *Scientometrics*, Vol. 120, No. 3, pp. 1427-1437. 
 
