@@ -150,7 +150,7 @@ public abstract class AbstractCleaner {
 		String[] refs = referenceList.split(RECORD_DELIMITER);
 
 		for (String r : refs) {
-			int position = r.indexOf(", DOI");
+			int position = r.indexOf(", DOI ");
 			if (position != -1) { // found
 				String text = r.substring(0, position).trim();
 				String doiOriginal = r.substring(position + ", DOI".length()).trim();
